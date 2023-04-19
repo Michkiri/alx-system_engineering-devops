@@ -1,0 +1,2 @@
+#!/bish/bash
+find . -type f -name "*.gif" -printf "%f\n"| r
